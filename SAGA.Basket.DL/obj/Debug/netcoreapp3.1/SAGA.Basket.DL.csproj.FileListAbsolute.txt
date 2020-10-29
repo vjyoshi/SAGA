@@ -1,0 +1,9 @@
+C:\Playground\SAGA\SAGA.Basket.DL\bin\Debug\netcoreapp3.1\SAGA.Basket.DL.deps.json
+C:\Playground\SAGA\SAGA.Basket.DL\bin\Debug\netcoreapp3.1\SAGA.Basket.DL.dll
+C:\Playground\SAGA\SAGA.Basket.DL\bin\Debug\netcoreapp3.1\SAGA.Basket.DL.pdb
+C:\Playground\SAGA\SAGA.Basket.DL\obj\Debug\netcoreapp3.1\SAGA.Basket.DL.csprojAssemblyReference.cache
+C:\Playground\SAGA\SAGA.Basket.DL\obj\Debug\netcoreapp3.1\SAGA.Basket.DL.AssemblyInfoInputs.cache
+C:\Playground\SAGA\SAGA.Basket.DL\obj\Debug\netcoreapp3.1\SAGA.Basket.DL.AssemblyInfo.cs
+C:\Playground\SAGA\SAGA.Basket.DL\obj\Debug\netcoreapp3.1\SAGA.Basket.DL.csproj.CoreCompileInputs.cache
+C:\Playground\SAGA\SAGA.Basket.DL\obj\Debug\netcoreapp3.1\SAGA.Basket.DL.dll
+C:\Playground\SAGA\SAGA.Basket.DL\obj\Debug\netcoreapp3.1\SAGA.Basket.DL.pdb
